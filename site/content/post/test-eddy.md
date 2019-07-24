@@ -6,18 +6,12 @@ image: /img/steve-johnson-ytuqu1oik5c-unsplash.jpg
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tristique velit ligula, ornare maximus nisl consequat tincidunt. Nam luctus eu felis sed sagittis. Donec a malesuada lacus. Praesent quis malesuada nibh. Aenean quis felis imperdiet, rutrum dolor et, vehicula augue. Curabitur accumsan pulvinar ex et venenatis. Nullam mattis nunc eu urna dictum fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-
+![sg](/img/about-direct-sourcing.jpg "gdf")
 
 Cras rutrum lorem tortor, iaculis congue ante elementum nec. Pellentesque consequat tortor eget nulla efficitur, at varius urna hendrerit. Sed ut sagittis enim, eget convallis ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis ullamcorper facilisis metus, eget commodo urna accumsan eu. Proin vel justo magna. Aenean fringilla, risus aliquet convallis pharetra, tellus diam pretium nulla, non convallis urna tellus ac nibh. Etiam vestibulum semper velit nec hendrerit. Nullam gravida, magna sit amet rhoncus tincidunt, ipsum eros facilisis felis, a volutpat libero risus id nibh. In hac habitasse platea dictumst. Sed tincidunt sapien a scelerisque pretium. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc bibendum, dolor vel volutpat lobortis, purus purus tempus arcu, in feugiat felis tortor in augue.
 
-
-
 Mauris eu semper nunc. Duis in quam sit amet ex iaculis ornare. Nam viverra facilisis gravida. Etiam est odio, vestibulum quis augue vel, lobortis porta purus. Quisque vel tempus leo. Aliquam a varius nisl. Aliquam vestibulum viverra ipsum, tempus malesuada eros sodales egestas. Aenean porttitor quam in dui sollicitudin, ut dapibus nisi varius. Sed eu interdum urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris ut est ipsum. Donec lectus leo, blandit a accumsan vitae, maximus quis lectus.
 
-
-
 Integer ornare dolor quis leo mattis sodales. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut a fermentum odio, id pellentesque dolor. Praesent pellentesque mattis sem a dictum. Duis quis nulla in enim tempor facilisis sed a lorem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sed est a ex sodales dignissim vel at diam. Phasellus erat nisl, malesuada et lectus at, pharetra lobortis lectus. Nam massa est, lacinia eu cursus a, dignissim id eros. Fusce imperdiet facilisis tortor gravida faucibus. Ut justo nunc, sollicitudin et ligula sit amet, dictum feugiat ante. Donec nunc massa, aliquet ut molestie viverra, lobortis nec felis. Sed sapien nunc, vulputate et nisi ut, finibus facilisis ligula. In tristique nulla in purus blandit, non sagittis neque molestie. Nulla placerat egestas magna, eget sollicitudin enim porta ac.
-
-
 
 Pellentesque imperdiet sit amet nisi in sollicitudin. Vestibulum tempor congue metus, sed laoreet massa vulputate in. Mauris imperdiet auctor nisl. Etiam sodales est a magna elementum, vel rutrum nisl dictum. Nam quis tempor nisi. Nullam suscipit libero sit amet turpis feugiat, sit amet accumsan orci ultricies. Etiam rutrum leo suscipit, faucibus metus sed, venenatis mauris. Etiam porta, orci sit amet pellentesque rutrum, ligula sem pellentesque neque, et dapibus lacus risus non enim.
